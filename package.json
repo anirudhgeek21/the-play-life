@@ -1,0 +1,20 @@
+{
+  "name": "the_play_life_waitlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anirudh Prajapati",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
